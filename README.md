@@ -1,6 +1,6 @@
 # HololensEyeTracking
 ## Background
-一個Hololens project, 用來追蹤 user 眼球晃動速度與穩定性.
+A Hololens project to track the speed and stability of users' eyeball movement.
 
 ## Build
 ### Build enviroments : 
