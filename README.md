@@ -11,5 +11,35 @@
 ### Build Steps : 
 * https://docs.google.com/document/d/12Yos1P32cHMhzrZiSXLxmNy_o4rdJCGI7W753XdnJ0E/edit?usp=sharing
 
+## Platform
+* Hololens 2
+
+## SPEC
+* 眼神順移
+  * 追蹤使用者視線, 當使用者眼球移動視角大於設定時, 顯示立體模型.
+
+* 眼神注視停留
+  * 持續掃描使用者視線, 當使用者視線停留在一定範圍內時, 顯示立體模型.
+  
+* 教學模式.
+  * 教學使用者熟悉兩種模式的使用.
+  
+* 數據紀錄
+  * 將兩種模式的使用結果以可讀的方式記錄下來, 供研究分析.
+  
+* Configuration
+  * 將教學與正式使用的設定黨以圖形介面供使用者調整, 並將調整結果紀錄於內部檔案.
+  
+## Change Log
+* v0.0.1 enviorment 建立與架設.
+* v0.0.2 eye tracking Proof Of Concept
+* v0.0.3 UI & Scene
+* v0.0.4 tutorial scenes
+* v0.0.5 nomal mode
+* *0.0.6 Localization & fix bugs.
+
+## References
+* 放影片
+
 
 
