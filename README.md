@@ -40,8 +40,7 @@ A Hololens project to track the speed and stability of users' eyeball movement.
 
 ## Demo
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/i92U5Zxd2pg/0.jpg)]
-(https://www.youtube.com/watch?v=i92U5Zxd2pg "Hololens eye tracking.")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/i92U5Zxd2pg/0.jpg)](https://www.youtube.com/watch?v=i92U5Zxd2pg "Hololens eye tracking.")
 
 
 
