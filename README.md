@@ -36,10 +36,12 @@ A Hololens project to track the speed and stability of users' eyeball movement.
 * v0.0.3 UI & Scene
 * v0.0.4 tutorial scenes
 * v0.0.5 nomal mode
-* *0.0.6 Localization & fix bugs.
+* v0.0.6 Localization & fix bugs.
 
-## References
-* 放影片
+## Demo
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/i92U5Zxd2pg/0.jpg)]
+(https://www.youtube.com/watch?v=i92U5Zxd2pg "Hololens eye tracking.")
 
 
 
