@@ -42,5 +42,19 @@ A Hololens project to track the speed and stability of users' eyeball movement.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/i92U5Zxd2pg/0.jpg)](https://www.youtube.com/watch?v=i92U5Zxd2pg "Hololens eye tracking.")
 
+## FAQ
+If you encounter the following error messages during execution:
+> ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (at Assets/Scripts/Localization/LocalizationManager.cs:74)
+> 
+> NullReferenceException: Object reference not set to an instance of an object (at Assets/Scripts/Localization/LocalizationManager.cs:121)
+>
+
+Please follow these steps:
+
+1. Visit this URL to download the Language.csv file. https://drive.google.com/u/0/uc?id=1u13HhO1cNbVguAMKbhQKS5QOkyLdzZ5l&export=download
+2. Replace the existing Assets\Resources\Language.csv file with the downloaded Language.csv file.
+
+
+
 
 
