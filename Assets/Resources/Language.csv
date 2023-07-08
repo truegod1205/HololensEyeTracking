@@ -1,0 +1,122 @@
+Key,English,Chinese
+Lobby_Menu_Settings,Settings,參數設定
+Lobby_Settings_Tag_General,General,一般設定
+Lobby_Settings_Tag_Tutorial,Tutorial,教學關卡設定
+Lobby_Settings_Language,Language,語言設定
+Lobby_Settings_Language_Chinese,Chinese,中文
+Lobby_Settings_Language_English,English,英文
+Lobby_Settings_Teleport,Teleport Threshold,快速轉動
+Lobby_Settings_Follow,Follow Limit,慢慢跟隨
+Lobby_Settings_CubeSpeed,Cube Speed,方塊速度
+Lobby_Settings_UIDistance,UI Distance,UI 距離
+Lobby_Menu_Description,About Eye Tracking,關於動眼測試
+Lobby_Menu_Tutorial,Tutorial,教學
+Lobby_Menu_Tutorial_FastMove,Fast Move Tutorial,快速轉動教學
+Lobby_Menu_Tutorial_SlowMove,Slow Move Tutorial,慢慢跟隨教學
+Lobby_Menu_Tutorial_HeadMove,Head Move Tutorial,頭部轉動教學
+Lobby_Menu_Calibration,Calibration,校正
+Lobby_Menu_Start,Start,開始
+Lobby_Menu_Leave,Leave,離開
+Lobby_Calibration_Toogle,Eye Calibration has data.,已設定動眼校正.
+Lobby_Calibration_Description,"If you have completed eye calibra-
+tion, the light above will be on. If 
+not, please follow these steps: 
+[Start] > [Application] > [Setting] > 
+[System] > [Calibration] > [Eye Ca
+libration]. If eye calibration is not 
+done by you, please adjust it 
+again to have the optimal experi-
+ence.","若執行過Hololens2的眼球校正, 上
+方的燈號將會亮起, 若沒有, 請到[
+開始功能表] > [所有應用程式] > [
+設定] > [系統] > [校正] > [執行眼
+球校正] 進行校正, 若資料非本人
+進行校正, 也請至該處再進行一次
+校正."
+Lobby_Description_ProductDescription,"The main purpose of this app is to 
+enhance the stability of visual fo-
+cus on items. Without interfering 
+your daily habits, this eye tracking 
+system and equipment reinforce 
+your focus with a mark. The aim is 
+to improve target focus and the sta
+-bility of spatial recognition. Come 
+and experience it now!","本應用程式主要目的,是在加強視覺
+焦點物體的穩定性.在不干擾生活習
+慣的前提下,利用動眼偵測及影像設
+備,給與焦點位置的強化標記,進而改
+善焦點目標影像及空間感的穩定度.
+現在就來體驗看看吧!"
+Tutotial_Dialog_step1,"Hello, this is eye tracking tutorial.","使用者您好,這裡是動眼測試教學.
+"
+Tutotial_Dialog_step2,"The aim is to guide you through this 
+product.","使這裡將指導您如何使用我們的產品.
+"
+Tutotial_Dialog_step3,"Please look at the cube on the left. 
+Do not move your head. When you 
+continue to focus on it or when your 
+focus movement is slow, a green 
+round mark will appear.","可以看到左邊有個方塊, 讓我們維持
+頭部不動看向他, 當視線不動或以緩
+慢的速度移動時, 會產生綠色圓球.
+"
+Tutotial_Dialog_step4,"After the green mark appears, the cu
+-be will start to move. Please keep 
+your head still, only following it with 
+your eyes. Complete the challenge se
+-veral times in or order to complete 
+the tutorial. If fail, the cube restart at 
+the beginning. ","出現綠色圓球後, 方塊便會開始移動,
+請保持頭部不動, 用視線跟隨, 完成數
+次練習, 失敗則方塊回到原位置.
+"
+Tutotial_Dialog_step5,Let's move on to the next tutorial.,"接著讓我們進行下一個練習.
+"
+Tutotial_Dialog_step6,"Keep your head still. When your line 
+of sight movement is fast, a blue squ-
+are will appear. Let's start this tutorial 
+now.","當頭部維持不動, 視線快速轉移時, 會
+在視線的終點產生藍色的方塊. 我們
+馬上進行這個練習.
+"
+Tutotial_Dialog_step7,"Please look at the cube on the left. 
+When a green cube appears, focus 
+on it without moving your head. If 
+fail, please try again.","請先盯著左邊的方塊, 當右邊出現綠色
+的方塊時, 頭部維持不動將視線看向綠
+色方塊. 如果失敗 再重複一次.
+"
+Tutotial_Dialog_step8,"Green cube will appear at random, 
+please focus on them quickly, which 
+will result in the appearance of blue 
+cubes.","現在綠色方塊將會隨機出現, 請快速
+用視線看向他們, 產生藍色方塊數次.
+"
+Tutotial_Dialog_step9,"Next, do not move your line of sight, 
+instead, move your head to follow 
+green cubes.
+","接著,讓我們測試視線不動, 頭部轉動
+的跟隨方式.
+"
+Tutotial_Dialog_step10,"There will be a cube moving slowly 
+right in front of you. Keep your line 
+of sight to the front, and move your 
+head to follow the cube. Complete 
+this task several times.","現在, 正前方將出現方塊, 並緩緩移動,
+請讓視線維持在正前方, 並使用轉頭的 
+方式, 盯著方塊來回移動數次.
+"
+Tutotial_Dialog_step11,"A sphere will appear in front of you, 
+it will  follow the movement of your 
+head. Make it overlap with the cube 
+in order to make the cube relocate. 
+","圓球會出現在正前方, 並跟隨頭部運動
+而改變位置 試著讓它與方塊重合, 觸
+發方塊的移動.
+"
+Tutotial_UI_StayTutorial,Continue Tutorial,繼續教學
+Tutotial_UI_LeaveTutorial,Leave Tutorial,離開教學
+Tutotial_UI_NEXT,NEXT,下一步
+Tutotial_UI_SUCCESS,Success,成功
+Test_UI_StayTest,Continue Test,繼續測試
+Test_UI_LeaveTest,Leave Test,離開測試
